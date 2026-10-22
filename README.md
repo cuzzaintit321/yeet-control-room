@@ -1,5 +1,7 @@
 # YEET Control Room ↗
 
+![yeet-control-room project banner](docs/project-banner.webp)
+
 **Your Linux infrastructure, reimagined as a mission control deck.**
 
 A local-first observability and incident simulation app: live telemetry cards, a service dependency constellation, a flight recorder, historical replay, failure simulations, and downloadable Markdown incident reports.
