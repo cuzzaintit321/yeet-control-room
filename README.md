@@ -6,7 +6,6 @@
 
 A local-first observability and incident simulation app: live telemetry cards, a service dependency constellation, a flight recorder, historical replay, failure simulations, and downloadable Markdown incident reports.
 
-Built as an AI-assisted learning and portfolio project for Jason Edwards. It has not been deployed on his home server or used by an employer.
 
 ## Launch in 10 seconds
 
